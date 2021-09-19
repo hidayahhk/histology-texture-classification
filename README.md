@@ -1,2 +1,2 @@
 # histology-texture-classification
-Predicting histology texture using Convolutional Neural Network with hard module
+Predicting histology texture using Convolutional Neural Network with Keras module
